@@ -1,0 +1,6 @@
+{
+  "name": "TTGT Solutions ERP",
+  "description": "Production Ready SaaS ERP built specifically for Indian businesses. Covers vendor management, warehouse picking/packing terminals, tax invoice creators, GST filings, and TDS auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
